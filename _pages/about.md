@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /rrethmeje/
+title: "Rreth meje"
 ---
 
 Përshendetje!
