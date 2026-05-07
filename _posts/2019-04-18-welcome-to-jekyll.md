@@ -25,8 +25,6 @@ Së bashku, këto gjetje sugjerojnë se edhe gjatë fiksimit, sytë dhe truri pu
 
 <small>Referencat:</small>
 
-<small> 1. *Microsaccades: Small steps on a long way - Martin Rolfs (Vision Research 2009)* </small>
-
-<small> 2. *Microsaccades uncover the orientation of covert attention - Engbert & Kliegl (Vision Research 2003)* </small>
-
+<small> 1. *Microsaccades: Small steps on a long way - Martin Rolfs (Vision Research 2009)* </small>   
+<small> 2. *Microsaccades uncover the orientation of covert attention - Engbert & Kliegl (Vision Research 2003)* </small>         
 <small> 3. *Imazhi: https://web.mit.edu/bcs/schillerlab/research.html* </small>
