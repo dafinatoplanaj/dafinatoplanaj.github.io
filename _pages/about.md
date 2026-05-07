@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Përshendetje!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Unë jam Dafina dhe jam krijuesja e këtij blogu.
+
+Si studente e doktoraturës në neuroshkencë, kam dëshirë që njohuritë e mia t’i ndaj me ju — lexuesit që flisni shqip.
+
+Me shkrimet e mia shpresoj t’ju prezantoj dhe t’ju shpjegoj se si funksionon truri ynë, si mendojmë, veprojmë dhe reagojmë në situata të ndryshme.
+
+Përveç kësaj, do të ndaj me ju edhe përvoja personale: udhëtime, konferenca, libra të preferuar dhe shumë të tjera…
+
+Qëndroni me mua!
