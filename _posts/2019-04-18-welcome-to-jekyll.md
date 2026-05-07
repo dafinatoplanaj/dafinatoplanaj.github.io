@@ -1,11 +1,8 @@
 ---
 title: "Të shohësh pa lëvizur: lëvizjet më të vogla të syrit"
-date: 2019-04-18T15:34:30-04:00
+date: 2026-05-07T15:34:30-04:00
 categories:
   - Neuroshkencë
-tags:
-  - behaviour
-  - microsaccades
 ---
 
 Shpesh mendojmë se kur e fiksojmë shikimin në diçka, sytë tanë janë plotësisht të palëvizshëm. Në jetën e përditshme kjo duket e vërtetë. Por kërkimet shkencore të dekadave të fundit kanë treguar se kjo nuk është plotësisht e saktë. Edhe kur përpiqemi t’i mbajmë sytë të palëvizshëm, ato vazhdojnë të kryejnë lëvizje shumë të vogla, të quajtura *mikrosakada*.
