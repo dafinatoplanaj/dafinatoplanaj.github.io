@@ -23,8 +23,10 @@ Në këto eksperimente u vu re se, edhe pse sytë mbeteshin të fiksuar, mikrosa
 
 Së bashku, këto gjetje sugjerojnë se edhe gjatë fiksimit, sytë dhe truri punojnë në mënyrë aktive së bashku. Mikrosakadat ofrojnë një dritare të vogël, por shumë të fuqishme, për të kuptuar vëmendjen, duke treguar se ku është përqendruar mendja edhe kur sytë duken të palëvizshëm.
 
-Referencat:
+<small>Referencat:</small>
 
 <small> 1. *Microsaccades: Small steps on a long way - Martin Rolfs (Vision Research 2009)* </small>
+
 <small> 2. *Microsaccades uncover the orientation of covert attention - Engbert & Kliegl (Vision Research 2003)* </small>
+
 <small> 3. *Imazhi: https://web.mit.edu/bcs/schillerlab/research.html* </small>
