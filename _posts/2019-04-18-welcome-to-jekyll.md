@@ -1,29 +1,29 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Të shohësh pa lëvizur: lëvizjet më të vogla të syrit"
 date: 2019-04-18T15:34:30-04:00
 categories:
-  - blog
+  - Neuroshkencë
 tags:
-  - Jekyll
-  - update
+  - behaviour
+  - microsaccades
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Shpesh mendojmë se kur e fiksojmë shikimin në diçka, sytë tanë janë plotësisht të palëvizshëm. Në jetën e përditshme kjo duket e vërtetë. Por kërkimet shkencore të dekadave të fundit kanë treguar se kjo nuk është plotësisht e saktë. Edhe kur përpiqemi t’i mbajmë sytë të palëvizshëm, ato vazhdojnë të kryejnë lëvizje shumë të vogla, të quajtura *mikrosakada*.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Ideja se lëvizjet e syrit vazhdojnë edhe gjatë fiksimit nuk është e re. Qysh në shekullin XVIII, Jurin e kishte sugjeruar këtë, ndërsa në fillim të viteve 1900 Dodge ofroi prova eksperimentale. Më vonë, u përdor termi *mikrosakada* për të përshkruar këto lëvizje tepër të vogla.
 
-Jekyll also offers powerful support for code snippets:
+Mikrosakadat janë lëvizje shumë të vogla dhe të pavullnetshme të syrit, që ndodhin rreth një ose dy herë në sekondë. Këto lëvizje ndodhin njëkohësisht në të dy sytë dhe janë jashtëzakonisht të shpejta, me një lidhje të qartë midis shpejtësisë së tyre dhe amplitudes së lëvizjes. Në përgjithësi, mikrosakadat priren të ndodhin më shpesh në drejtimin horizontal sesa në atë vertikal, ky i fundit duke qenë më i rrallë te njerëzit.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+E rëndësishmja është se mikrosakadat nuk janë thjesht “dridhje” pa kuptim. Studime te kafshët kanë treguar se këto lëvizje të vogla rrisin ndjeshmërinë e trurit ndaj informacionit vizual. Aktivitet e lidhura me mikrosakadat është vërejtur në disa zona të trurit që përpunojnë shikimin, duke sugjeruar se ato luajnë një rol në mënyrën se si përpunojmë informacionin vizual.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Një ndryshim i madh në mënyrën se si i kuptojmë mikrosakadat erdhi nga një studim i Engbert dhe Kliegl në vitin 2003. Deri atëherë, mikrosakadat konsideroheshin kryesisht si “zhurmë” motorike e rastësishme, pa ndonjë funksion të veçantë. Engbert dhe Kliegl e sfiduan këtë ide duke treguar se mikrosakadat ndikohen nga *vëmendja e fshehtë (covert attention)*, pra nga vendi ku përqendrojmë vëmendjen, pa lëvizur sytë.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Në këto eksperimente u vu re se, edhe pse sytë mbeteshin të fiksuar, mikrosakadat ndryshonin në varësi të vëmendjes. Kur vëmendja drejtohej drejt një pozite të caktuar, mikrosakadat prirnin të drejtoheshin dhe të rriteshin në atë drejtim. Kur vëmendja nuk zhvendosej, ky efekt nuk shfaqej. 
+
+Së bashku, këto gjetje sugjerojnë se edhe gjatë fiksimit, sytë dhe truri punojnë në mënyrë aktive së bashku. Mikrosakadat ofrojnë një dritare të vogël, por shumë të fuqishme, për të kuptuar vëmendjen, duke treguar se ku është përqendruar mendja edhe kur sytë duken të palëvizshëm.
+
+Referencat:
+
+1. *Microsaccades: Small steps on a long way - Martin Rolfs (Vision Research 2009)*
+2. *Microsaccades uncover the orientation of covert attention - Engbert & Kliegl (Vision Research 2003)*
+3. Picture source: https://web.mit.edu/bcs/schillerlab/research.html
