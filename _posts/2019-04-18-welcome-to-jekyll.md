@@ -5,6 +5,8 @@ categories:
   - Neuroshkencë
 ---
 
+![Gjurmët e lëvizjeve të syve ndërsa një subjekt eksploron një pikturë të bustit të Nefertitit](/assets/images/your-image-name.jpg)
+
 Shpesh mendojmë se kur e fiksojmë shikimin në diçka, sytë tanë janë plotësisht të palëvizshëm. Në jetën e përditshme kjo duket e vërtetë. Por kërkimet shkencore të dekadave të fundit kanë treguar se kjo nuk është plotësisht e saktë. Edhe kur përpiqemi t’i mbajmë sytë të palëvizshëm, ato vazhdojnë të kryejnë lëvizje shumë të vogla, të quajtura *mikrosakada*.
 
 Ideja se lëvizjet e syrit vazhdojnë edhe gjatë fiksimit nuk është e re. Qysh në shekullin XVIII, Jurin e kishte sugjeruar këtë, ndërsa në fillim të viteve 1900 Dodge ofroi prova eksperimentale. Më vonë, u përdor termi *mikrosakada* për të përshkruar këto lëvizje tepër të vogla.
