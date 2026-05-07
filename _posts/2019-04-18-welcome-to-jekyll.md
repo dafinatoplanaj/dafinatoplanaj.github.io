@@ -5,7 +5,8 @@ categories:
   - Neuroshkencë
 ---
 
-![Gjurmët e lëvizjeve të syve ndërsa një subjekt eksploron një pikturë të bustit të Nefertitit](/assets/images/microsaccades.png)
+![Alt text](/assets/images/microsaccades.png)
+*Gjurmët e lëvizjeve të syve ndërsa një subjekt eksploron një pikturë të bustit të Nefertitit*
 
 Shpesh mendojmë se kur e fiksojmë shikimin në diçka, sytë tanë janë plotësisht të palëvizshëm. Në jetën e përditshme kjo duket e vërtetë. Por kërkimet shkencore të dekadave të fundit kanë treguar se kjo nuk është plotësisht e saktë. Edhe kur përpiqemi t’i mbajmë sytë të palëvizshëm, ato vazhdojnë të kryejnë lëvizje shumë të vogla, të quajtura *mikrosakada*.
 
