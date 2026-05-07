@@ -1,5 +1,5 @@
 ---
-permalink: /rrethmeje/
+permalink: /about/
 title: "Rreth meje"
 ---
 
