@@ -13,7 +13,7 @@ categories:
 
 Rreth 0.5-1 përqind e popullates janë diagnostikuar me skizofreni dhe rreth 10-20 përqind e popullsisë në përgjithësi shfaqin shënja delikate të *psikozës* pa arritur kurrë në sëmundje klinike siç janë: përvoja të lehta të pazakonta, paqëndrueshmëri të humorit, anomali të vogla perceptive. 
 
-Megjithëse gjenet kanë kontributin e tyre në skizofreni, ato në vetvete nuk percaktojnë rezultatin. Dëshmite aktuale sugjerojnë se gjenetika në radhë të parë nuk bart psikozën në vetvete, por një ndjeshmëri diferenciale ndaj kushteve mjedisore që e gjenerojnë atë. Kërkimet kanë identifikuar katër faktorë kryesorë të mjedisorë që rrisin rrezikun e çrregullimit psikotik.
+Megjithëse gjenet kanë kontributin e tyre në skizofreni, ato në vetvete nuk percaktojnë rezultatin. Dëshmite aktuale sugjerojnë se gjenetika në radhë të parë nuk bart psikozën në vetvete dhe kërkimet kanë identifikuar katër faktorë kryesorë të mjedisorë që rrisin rrezikun e çrregullimit psikotik.
 
 *E para* është traumat e femijërisë. Sa më e rëndë dhe e përseritshme abuzimi apo neglizhimi në fëmijëri aq më i lartë më vonë është rreziku për psikozë. Kur një fëmijë përjeton trauma të përsëritura, sistemi i tyre përgjigjes ndaj stresit ngec në një lloj gjendje të përhershme alarmi të lartë. Truri në thelb mëson se bota është e rrezikshme dhe rekonfiguron veten në përputhje me atë. Më kohë ky stres kronik demton fizikisht *korteksin prefrontal* që është një pjesë e trurit përgjegjëse për mendimin racional dhe rregullimin e emocioneve. Një korteks prefrontal i dëmtuar nënkupton që truri ka më shumë vështirësi të dallojë kërcënimet reale nga ato të imagjinuara, gjë që është drejtpërdrejt e rëndësishme për mënyrën se si zhvillohet psikoza.  
 
