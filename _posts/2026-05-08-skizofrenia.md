@@ -29,7 +29,7 @@ Kjo shpjegon gjithashtu pse jo të gjithë të ekspozuarit ndaj këtyre faktorë
 
 Si përfundim koha ka rëndësinë e vetë. Ndikimi maksimal mjedisor bie rreth moshave 10 deri 14 vjeç, gjatë pubertetit, pikërisht kur sistemi dopaminergjik po i nënshtrohet riorganizimit të vet kryesorë, duke shkurtuar lidhjet dhe duke vendosur lidhjet rregullatore me korteksin prefrontal që do të na udhëheqë gjatë gjithë jetës. Një çrregullim mjedisor gjatë kësaj periudhe nuk shkakton thjesht një pengesë të përkohshme por vendos bazën e sistemit dopaminergjik në vendin e gabuar dhe ky keqkalibrim është ai që përfundimisht shfaqet si psikozë kur truri arrin pjekjën e plotë.
 
-Të kuptuarit e skizofrenisë si një çrregullim i formësuar nga mjedisi po aq sa nga gjenetika ndryshon atë që mendojmë se është e mundur. Reduktimi i traumës, ndërtimi i bashkësive me lidhje shoqërore dhe mbrojtja e trurit adoleshent nuk janë politika sociale të buta periferike ndaj mjekësisë reale. Sipas neuroshkencës, ato janë ndërhyrje të drejtuara drejtpërdrejt ndaj proceseve biologjike që çojnë në sëmundje psikotike.
+Të kuptuarit e skizofrenisë si një çrregullim i formësuar nga mjedisi po aq sa nga gjenetika ndryshon atë që mendojmë se është e mundur. Reduktimi i traumës, ndërtimi i bashkësive me lidhje shoqërore dhe mbrojtja e trurit adoleshent sipas neuroshkencës janë ndërhyrje të drejtuara drejtpërdrejt ndaj proceseve biologjike që çojnë në sëmundje psikotike.
 
 <small> Referencat: <small/> 
 <small> The environment and schizophrenia - J.Os, G.Kenis, P.F. Rutten (Nature 2010) <small/> 
