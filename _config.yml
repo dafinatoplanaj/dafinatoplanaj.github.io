@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Dafina Toplanaj"
   avatar : "/assets/images/000040.JPG"
-  bio    : "PhD student in Neuroscience"
+  bio    : "Studente e doktoraturës në Neuroshkencë"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
