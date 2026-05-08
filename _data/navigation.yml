@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Postimet"
     url: /posts/
-  - title: "Categories"
+  - title: "Kategoritë"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Rreth meje"
     url: /about/
