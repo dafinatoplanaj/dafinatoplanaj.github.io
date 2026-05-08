@@ -11,7 +11,7 @@ categories:
 
 <small> *Imazhi: Pikturar nga Bryan Charnley, një artist britanik që vuante nga skizofrenia* <small/>
 
-Rreth 0.5-1 përqind e popullates janë diagnostikuar me skizofreni dhe rreth 10-20 përqind e popullsisë në përgjithësi shfaqin shenja delikate të predispozicionit psikotik si përvoja të lehta të pazakonta, paqëndrueshmëri e moderuar e humorit, anomali të vogla perceptive e pa arritur kurrë në sëmundje klinike. 
+Rreth 0.5-1 përqind e popullates janë diagnostikuar me skizofreni dhe rreth 10-20 përqind e popullsisë në përgjithësi shfaqin shënja delikate të predispozicionit psikotik si përvoja të lehta të pazakonta, paqëndrueshmëri të humorit, anomali të vogla perceptive e pa arritur kurrë në sëmundje klinike. 
 
 Megjithëse gjenet kanë kontributin e tyre në skizofreni, ato në vetvete nuk percaktojnë rezultatin. Dëshmite aktuale  sugjerojnë se gjenetika në radhë të parë nuk konveron psikozën në vetvete, por një ndjeshmëri diferenciale ndaj kushteve mjedisore që e gjenerojnë atë. Kërkimet kanë identifikuar katër faktorë kryesorë të mjedisorë që rrisin rrezikun e çrregullimit psikotik.
 
