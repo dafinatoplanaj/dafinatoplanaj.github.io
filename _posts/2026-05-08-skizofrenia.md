@@ -5,7 +5,9 @@ categories:
   - Neuroshkencë
 ---
 
-![Alt text](/assets/images/microsaccades.png)
+![Alt text](/assets/images/Charnley_Self_Portrait.jpg)
+
+*Imazhi: Pikturar nga Bryan Charnley, një artist britanik që vuante nga skizofrenia*
 
 Rreth 0.5-1 përqind e popullates janë diagnostikuar me skizofreni dhe rreth 10-20 përqind e popullsisë në përgjithësi shfaqin shenja delikate të predispozicionit psikotik si përvoja të lehta të pazakonta, paqëndrueshmëri e moderuar e humorit, anomali të vogla perceptive e pa arritur kurrë në sëmundje klinike. 
 
