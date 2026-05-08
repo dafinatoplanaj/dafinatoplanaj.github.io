@@ -5,7 +5,9 @@ categories:
   - Neuroshkencë
 ---
 
-<img src="/assets/images/Charnley_Self_Portrait.jpg" alt="Pikturar nga Bryan Charnley, një artist britanik që vuante nga skizofrenia" width="400">
+<figure style="width: 400px; margin: 0 auto; text-align: center;">
+  <img src="/assets/images/Charnley_Self_Portrait.jpg" alt="Pikturar nga Bryan Charnley, një artist britanik që vuante nga skizofrenia">
+</figure>
 
 *Imazhi: Pikturar nga Bryan Charnley, një artist britanik që vuante nga skizofrenia*
 
