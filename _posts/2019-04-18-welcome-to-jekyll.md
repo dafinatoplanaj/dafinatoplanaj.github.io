@@ -5,7 +5,9 @@ categories:
   - Neuroshkencë
 ---
 
-![Alt text](/assets/images/microsaccades.png)
+<figure style="width: 400px; margin: 0 auto; text-align: center;">
+  <img src="/assets/images/microsaccades.png"  style="width: 60%;">
+</figure>
 
 <small> Imazhi: *Gjurmët e lëvizjeve të syve ndërsa një subjekt eksploron një pikturë të bustit të Nefertitit*</small>
 
