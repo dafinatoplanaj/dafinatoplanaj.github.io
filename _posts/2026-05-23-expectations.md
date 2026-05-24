@@ -34,4 +34,4 @@ His wife found a new version of herself when she met Henrik. She grew and change
 
 He argues about the fact that adult love is not of that form. It isn’t fully unconditional. What he learnt is that to *love someone means to extend your care to the things your partner cares about to some degree, and learning to feel what the other person is feeling*. He became an aspirant, and to aspire he says, means *to want something before you actually want it*. He learnt to see through her with her in order to meet her wherever she was in that moment.
 
-To me it seems like Henrik is a mix of both. On one side he communicates like a romantic and on the other side he listens like a classic. Maybe that’s the point. Not to choose one or another, not to see things as either black or white but to know when to reach and when to accept.
+To me it seems like Henrik is a mix of both. On one side he speaks like a romantic and on the other side he loves like a classic. Maybe that’s the point. Not to choose one or another, not to see things as either black or white but to know when to reach and when to accept.
