@@ -26,7 +26,7 @@ The book suggests being more of a classic than a romantic. A classic person lear
 
 *A classic way of being might help us to manage tension and lower hopes about what good relationships are like*. It is in this part that I thought a lot about series of Henrik’s blog which is called “Looking for Alice”.
 
-I’m not someone to judge if Gertrude Stein (the one that likes Alice) is a classic or a romantic but one thing for sure is that she didn’t categorize Alice, she was kind of more into individuals. When Stein was asked if she was lesbian, she responded *‘No, I just like Alice’*. She didn’t have a type, and having a type would mean it’s that expectation we have already created about someone before we even get to know them. 
+I’m not someone to judge if Gertrude Stein (the one that likes Alice) is a classic or a romantic but one thing for sure is that she didn’t categorize Alice. She was kind of more into individuals. When Stein was asked if she was lesbian, she responded *‘No, I just like Alice’*. She didn’t have a type, and having a type would mean it’s that expectation we have already created about someone before we even get to know them. 
 
 In the part 5 called *Love is about being invested in someone’s continual expansion,* Henrik opens up about few struggles when it comes to love or his lover. For Henrik, his wife is his Alice but how did he manage to not let Alice go for all this time? 
 
