@@ -4,7 +4,7 @@ date: 2026-05-23T15:34:30-04:00
 categories:
   - Books
 ---
-The book Calm - The School of Life opens with the chapter Romantic Relationship and few days ago I read those very well written blog series by Henrik Karlsson about love and I thought a lot about some parts of it while reading this chapter. The term ‘romantic’ gets challenged in my mind while reading, and I tried to find comfort from Henrik but somehow those both pieces meet.
+The book Calm - The School of Life opens with the chapter Romantic Relationship and few days ago I read a beautifully crafted blog series by Henrik Karlsson about love and I found myself dwelling on parts of it while reading this chapter. The term ‘romantic’ gets challenged in my mind while reading, and I tried to find comfort from Henrik but somehow the two pieces kept meeting.
 
 The author, whoever wrote this book, speaks about our expectations in love. Apparently, expectation is kind of our enemy and the advice “lower down your expectations” isn’t that bad after all.
 
