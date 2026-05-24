@@ -6,7 +6,7 @@ categories:
 ---
 The book Calm - The School of Life opens with the chapter Romantic Relationship and few days ago I read those very well written blog series by Henrik Karlsson about love and I thought a lot about some parts of it while reading this chapter. The term ‘romantic’ gets challenged in my mind while reading, and I tried to find comfort from Henrik but somehow those both pieces meet.
 
-The author, whoever wrote this book, speaks a lot about our expectations in love. Apparently, expectation is kind of our enemy and the advice “lower down your expectations” isn’t that bad after all.
+The author, whoever wrote this book, speaks about our expectations in love. Apparently, expectation is kind of our enemy and the advice “lower down your expectations” isn’t that bad after all.
 
 It starts by sitting with the uncomfortable idea that before we even meet someone we’ve already been dreaming about how the other person should be and have this whole idealisation of how they should fullfill us. When we finally meet them based on those dreams we will create expectations and then based on them we will generate how things should go. 
 
