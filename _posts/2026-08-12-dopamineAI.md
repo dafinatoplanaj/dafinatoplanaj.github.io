@@ -18,9 +18,11 @@ A decade later, Dayan and Montague found that Schultz's findings aligned with Su
 
 All of this is to say that dopamine is not a signal for reward but for reinforcement, and that AI models, just like animals, learn best not from being told the answer, but from trial and error.
 
-P.S. Using em dashes without AI because I love 'em.
-
+_____________________________________     
 Thorndike's puzzle box: the scientist put animals in a box and let them figure out how to open the door. Once the door was opened, the animal would get a reward (food). He wouldn't tell them what to do but through trial and error the animals learnt that themselves. He reported their behaviour for each trial and found out that after several trials they were able to find the way out quicker. 
+
+
+P.S. Using em dashes without AI because I love 'em.
 
 <small> Reference: <small/> 
 <small> A Brief History of Intelligence - Max Bennett <small/> 
