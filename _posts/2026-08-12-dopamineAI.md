@@ -1,6 +1,6 @@
 ---
 title: "dopamine meets reinforcement learning"
-date: 2026-05-23T15:34:30-04:00
+date: 2026-08-12T15:34:30-04:00
 categories:
   - Books
 ---
