@@ -21,10 +21,10 @@ All of this is to say that dopamine is not a signal for reward but for reinforce
 _____________________________________     
 
 <figure style="width: 400px; margin: 0 auto; text-align: center;">
-  <img src="/assets/images/thorndike.jpg"  style="width: 60%;">
+  <img src="/assets/images/thorndike.png"  style="width: 60%;">
 </figure>
 
-Thorndike's puzzle box: the scientist put animals in a box and let them figure out how to open the door. Once the door was opened, the animal would get a reward (food). He wouldn't tell them what to do but through trial and error the animals learnt that themselves. He reported their behaviour for each trial and found out that after several trials they were able to find the way out quicker. 
+Thorndike's puzzle box: the scientist put animals in a box and let the animals find out how to get out of it by pulling the lever. Once the door was opened, the animal would get a reward (food). He wouldn't tell them what to do but through trial and error the animals learnt that pulling the lever leaves them out. He reported their behaviour for each trial and found out that after several trials they were able to find the way out quicker. 
 
 
 P.S. Using em dashes without AI because I love 'em.
